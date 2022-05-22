@@ -9,4 +9,8 @@
 1. Project1，内核模块以及 /proc 文件系统编程练习。 
 2. Project2，进程调度。
 3. Project3，内存管理。
-4. Project4，未定。
+4. Project4，文件管理。
+
+## 期末项目
+
+在文件夹 `projectfinal` 中，实现一个性能检测程序。
